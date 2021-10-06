@@ -1,9 +1,9 @@
-import React, { useState } from "react";
+import React from "react";
 import Navbar from "../components/Navbar";
 import "../styles/landing.scss";
 
 export default function Landing() {
-     const [inputValue, setInputValue] = useState("");
+     //const [inputValue, setInputValue] = useState("");
 
      // const submitForm = (e) => {
      //   e.preventDefault();
