@@ -1,0 +1,52 @@
+@font-face {
+     font-family: Work-Sans-Thin;
+     src: url(./fonts/work_sans_thin.otf);
+}
+
+@font-face {
+     font-family: Work-Sans-Light;
+     src: url(./fonts/work_sans_light.otf);
+}
+
+@font-face {
+     font-family: Work-Sans-Regular;
+     src: url(./fonts/work_sans_regular.otf);
+}
+
+@font-face {
+     font-family: Work-Sans-SemiBold;
+     src: url(./fonts/work_sans_semibold.otf);
+}
+
+@font-face {
+     font-family: Work-Sans-Bold;
+     src: url(./fonts/work_sans_bold.otf);
+}
+
+@font-face {
+     font-family: Work-Sans-Medium;
+     src: url(./fonts/work_sans_medium.otf);
+}
+
+*,
+body,
+html {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     font-family: "Work-Sans-Regular";
+}
+
+body::-webkit-scrollbar {
+     /* width:5px; */
+     height: 1px; /* height of horizontal scrollbar ← You're missing this */
+     width: 5px; /* width of vertical scrollbar */
+}
+
+body::-webkit-scrollbar-thumb {
+     background: #673692;
+     border-radius: 5px;
+}
+body::-webkit-scrollbar-thumb:hover {
+     background: #673692;
+}
