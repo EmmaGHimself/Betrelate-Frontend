@@ -6,9 +6,7 @@ export default function Navbar() {
           <div className="navbar-container">
                <Link to="/">
                     <div className="logo"></div>
-               </Link>
-                    <a href="/about">
-                         <div className="nav-text">What is BetRelate? </div></a> 
+              </Link>
                
           </div>
      );
