@@ -22,19 +22,13 @@ export default function ThankYou() {
                </div>
                <div className="sub-text">Visit our social platforms</div>
                <div className="socials-container">
-                              <a href="/">
+               <a href="https://twitter.com/betrelate">
                                    <div className="icon twitter" />
                               </a>
-                              <a href="/">
+                              <a href="https://facebook.com/betrelate">
                                    <div className="icon facebook" />
                               </a>
-                              <a href="/">
-                                   <div className="icon linkedin" />
-                              </a>
-                              <a href="/">
-                                   <div className="icon youtube" />
-                              </a>
-                              <a href="/">
+                              <a href="https://instagram.com/betrelate">
                                    <div className="icon instagram" />
                               </a>
                          
