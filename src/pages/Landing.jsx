@@ -66,19 +66,19 @@ export default function Landing() {
                          <div className="sub-text"> <div>Learn More</div>
                               <div className="subtitle-text">Visit our social platforms</div>
                               <div className="socials-container">
-                              <a href="https://twitter.com/GetMollo">
+                              <a href="/">
                                    <div className="icon twitter" />
                               </a>
-                              <a href="https://facebook.com/mollo.finance">
+                              <a href="/">
                                    <div className="icon facebook" />
                               </a>
-                              <a href="https://www.linkedin.com/company/getmollo">
+                              <a href="/">
                                    <div className="icon linkedin" />
                               </a>
-                              <a href="https://www.linkedin.com/company/getmollo">
+                              <a href="/">
                                    <div className="icon youtube" />
                               </a>
-                              <a href="https://www.instagram.com/mollo.finance">
+                              <a href="/">
                                    <div className="icon instagram" />
                               </a>
                          
