@@ -66,13 +66,13 @@ export default function Landing() {
                          <div className="sub-text"> <div>Learn More</div>
                               <div className="subtitle-text">Visit our social platforms</div>
                               <div className="socials-container">
-                              <a href="https://twitter.com/betrelate">
+                              <a href="https://twitter.com/betrelate" target="_blank" rel="noopener noreferrer">
                                    <div className="icon twitter" />
                               </a>
-                              <a href="https://facebook.com/betrelate">
+                              <a href="https://facebook.com/betrelate" target="_blank" rel="noopener noreferrer">
                                    <div className="icon facebook" />
                               </a>
-                              <a href="https://instagram.com/betrelate">
+                              <a href="https://instagram.com/betrelate" target="_blank" rel="noopener noreferrer">
                                    <div className="icon instagram" />
                               </a>
                          
